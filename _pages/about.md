@@ -10,8 +10,7 @@ profile:
   image: jiabin.jpg
   image_circular: false
   more_info: >
-    <p>Email:</p>
-    <p>Email:</p>
+    <p>Email:liujiab1@msu.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={false}"
 social: false # includes social icons at the bottom of the page
