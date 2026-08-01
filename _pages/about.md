@@ -2,35 +2,152 @@
 layout: about
 title: Home
 permalink: /
-nav: true
 nav_order: 1
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: jiabin.png
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Email:</p>
+    <p>Email:</p>
+    <p>Email:</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={false}"
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a postdoctoral researcher in the department of Mechanical Engineering at Michigan State University since June 2026. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+---
+
+##### **Research Interests**
+
+- Physics-empowered Tactile Robots
+- Mechano-transport in soft materials
+- Multiscale modeling for network materials
+
+
+---
+
+##### **Education**
+
+<div style="margin-bottom: 0.2rem;">
+  <div style="display: flex; justify-content: space-between; gap: 1rem;">
+    <strong>Ph.D. in Mechanical Engineering</strong>
+    <span>2022–2026</span>
+  </div>
+  <div>Michigan State University</div>
+</div>
+
+<div style="margin-bottom: 0.2rem;">
+  <div style="display: flex; justify-content: space-between; gap: 1rem;">
+    <strong>M.S. in Electrical Engineering</strong>
+    <span>2019–2021</span>
+  </div>
+  <div>Northwestern University</div>
+</div>
+
+<div style="margin-bottom: 0.2rem;">
+  <div style="display: flex; justify-content: space-between; gap: 1rem;">
+    <strong>M.Eng. in Electrical Engineering</strong>
+    <span>2016–2019</span>
+  </div>
+  <div>Tsinghua University</div>
+</div>
+
+---
+##### **Awards**
+
+<ul style="padding-left: 1.2rem;">
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Chinese Government Award for Outstanding Self-Financed Students Abroad</span>
+      <span style="white-space: nowrap;">07/2026</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Frank J. Padden, Jr. Award (Finalist)</span>
+      <span style="white-space: nowrap;">03/2026</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Peebles Award for Graduate Student Research in Adhesion Science</span>
+      <span style="white-space: nowrap;">02/2026</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Rising Stars in Soft and Biological Matter</span>
+      <span style="white-space: nowrap;">12/2025</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Rising Stars in Mechanical Engineering</span>
+      <span style="white-space: nowrap;">10/2025</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Society of Engineering Science, Student Travel Award</span>
+      <span style="white-space: nowrap;">10/2025</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Society of Engineering Science, Second Future Faculty Symposium Travel Award</span>
+      <span style="white-space: nowrap;">10/2025</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Best Poster Award, 2025 MSU Engineering Graduate Research Symposium</span>
+      <span style="white-space: nowrap;">05/2025</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Outstanding Graduate Student in Mechanical Engineering, Michigan State University</span>
+      <span style="white-space: nowrap;">04/2025</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Inspiration Level Award, 2024 MTRAC AgBio Innovation Challenge</span>
+      <span style="white-space: nowrap;">06/2024</span>
+    </div>
+  </li>
+
+  <li style="margin-bottom: 0.7rem;">
+    <div style="display: flex; justify-content: space-between; gap: 1rem;">
+      <span>Haythornthwaite Foundation Student Travel Award, IMECE 2023</span>
+      <span style="white-space: nowrap;">11/2023</span>
+    </div>
+  </li>
+
+</ul>
