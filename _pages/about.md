@@ -7,10 +7,9 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: jiabin.png
+  image: jiabin.jpg
   image_circular: false
   more_info: >
-    <p>Email:</p>
     <p>Email:</p>
     <p>Email:</p>
 
