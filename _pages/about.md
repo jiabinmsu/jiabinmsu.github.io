@@ -61,7 +61,7 @@ I am always happy to discuss research ideas and explore potential collaborations
 - Chinese Government Award for Outstanding Self-Financed Students Abroad (July 2026)
 - **[Frank J. Padden, Jr. Award (Finalist)](https://engage.aps.org/dpoly/honors/prizes-awards/frank-padden-award)** (March 2026)
 - Peebles Award for Graduate Student Research in Adhesion Science (February 2026)
-- **[Rising Stars in Soft and Biological Matter](https://mrsec.uchicago.edu/educational-outreach/rising-stars-symposium/)** (hosted by Uchicago and UCSD, December 2025)
+- **[Rising Stars in Soft and Biological Matter](https://mrsec.uchicago.edu/educational-outreach/rising-stars-symposium/)** (hosted by UChicago and UCSD, December 2025)
 - **[Rising Stars in Mechanical Engineering](https://risingstarsme.mit.edu/)** (hosted by MIT, October 2025)
 - Society of Engineering Science, Student Travel Award (October 2025)
 - Society of Engineering Science, 2nd Future Faculty Symposium Travel Award (October 2025)
