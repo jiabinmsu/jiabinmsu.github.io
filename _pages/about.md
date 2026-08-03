@@ -79,7 +79,5 @@ Email: liujiab1@msu.edu
 ---
 
 <body>
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8TAi7I1cpkf1G_ApK_r6xwAjbqhse_SwcGjl6V2Z9Qk&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=fta4eaaqWv5tLnRCixi7uyU7grUxAwY-rYFu0u-9J3M'></script>
 <body>
-
----
