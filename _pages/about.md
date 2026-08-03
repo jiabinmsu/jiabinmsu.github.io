@@ -1,151 +1,79 @@
 ---
 layout: about
-title: Home
+title: Homepage
 permalink: /
-nav_order: 1
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav: false
 
 profile:
   align: right
   image: jiabin.jpg
-  image_circular: false
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email:liujiab1@msu.edu</p>
+    <p>Email: liujiab1@msu.edu</p>    
 
-selected_papers: false # includes a list of papers marked as "selected={false}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: false # includes a list of news items
-  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a postdoctoral researcher in the department of Mechanical Engineering at Michigan State University since June 2026. 
-
+I am an Postdoc Scholar at Department of Mechaincal Engineering at Michigan State University.
+I received my Ph.D. in Mechanical Engineering in May 2026 from MSU. 
+My research interest includes solid mechanics, soft materials, multiscale modeling, and robotic sensing.
 
 ---
 
 ##### **Research Interests**
+- **Physics-empowered tactile robots.**
+- **Mechano-transport in soft materials.**
+- **Multiscale modeling for network materials.**
 
-- Physics-empowered Tactile Robots
-- Mechano-transport in soft materials
-- Multiscale modeling for network materials
+For more details, please visit my [Research Page](https://jiabinmsu.github.io/research/) or [Google Scholar](https://scholar.google.com/citations?user=iOW3huEAAAAJ&hl=en&oi=ao).
+I am always happy to discuss research ideas and explore potential collaborations.
 
+---
+##### **Education**
+- **Ph.D. in Mechanical Engineering**, Michigan State University, 2022–2026  
+  Advisor: Prof. Shaoting Lin.
+- **M.S. in Electrical Engineering**, Northwestern University, 2019-2021
+- **M.Eng. in Electrical Engineering**, Tsinghua University, 2016-2019
 
 ---
 
-##### **Education**
+##### **Recent Work**
 
-<div style="margin-bottom: 0.2rem;">
-  <div style="display: flex; justify-content: space-between; gap: 1rem;">
-    <strong>Ph.D. in Mechanical Engineering</strong>
-    <span>2022–2026</span>
-  </div>
-  <div>Michigan State University</div>
-</div>
-
-<div style="margin-bottom: 0.2rem;">
-  <div style="display: flex; justify-content: space-between; gap: 1rem;">
-    <strong>M.S. in Electrical Engineering</strong>
-    <span>2019–2021</span>
-  </div>
-  <div>Northwestern University</div>
-</div>
-
-<div style="margin-bottom: 0.2rem;">
-  <div style="display: flex; justify-content: space-between; gap: 1rem;">
-    <strong>M.Eng. in Electrical Engineering</strong>
-    <span>2016–2019</span>
-  </div>
-  <div>Tsinghua University</div>
-</div>
+- **J. Liu**, S. Lin, and J. Huang. A Discrete HRR-Like Theory for Fracture in Nonlinear Lattice Networks. Submitted, 2026. 
+- J. Huang<sup>†</sup>, **J. Liu<sup>†</sup>**, and S. Lin. [Topological Mechanics of Entangled Networks](https://arxiv.org/abs/2509.17813), ***arXiv:2509.17813***, 2025.
+- **J. Liu**, W. Li, Y. She, S. Blanchard and S. Lin. [Fatigue‐Resistant Mechanoresponsive Color‐Changing Hydrogels for Vision‐Based Tactile Robots](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202407925), *Advanced Materials*, 37(49), 2407925.
+- **J. Liu** and S. Lin. [Strain-engineered particle diffusion in uniaxially deformed polymer networks](https://www.sciencedirect.com/science/article/abs/pii/S0022509624001984), *Journal of the Mechanics and Physics of Solids*, 191, 105732.
 
 ---
 ##### **Awards**
 
-<ul style="padding-left: 1.2rem;">
+- Chinese Government Award for Outstanding Self-Financed Students Abroad (July 2026)
+- **[Frank J. Padden, Jr. Award (Finalist)](https://engage.aps.org/dpoly/honors/prizes-awards/frank-padden-award)** (March 2026)
+- Peebles Award for Graduate Student Research in Adhesion Science (February 2026)
+- **[Rising Stars in Soft and Biological Matter](https://mrsec.uchicago.edu/educational-outreach/rising-stars-symposium/)** (hosted by Uchicago and UCSD, December 2025)
+- **[Rising Stars in Mechanical Engineering](https://risingstarsme.mit.edu/)** (hosted by MIT, October 2025)
+- Society of Engineering Science, Student Travel Award (October 2025)
+- Society of Engineering Science, 2nd Future Faculty Symposium Travel Award (October 2025)
+- Best Poster Award in MSU Engineering Graduate Research Symposium(May 2025)
+- Outstanding Graduate Student in Mechanical Engineering (April 2025)
+- Inspiration Level Award for the 2024 MTRAC AgBio Innovation Challenge (June 2024)
+- Haythornthwaite Foundation Student Travel Award (November 2023)
 
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Chinese Government Award for Outstanding Self-Financed Students Abroad</span>
-      <span style="white-space: nowrap;">07/2026</span>
-    </div>
-  </li>
+---
 
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Frank J. Padden, Jr. Award (Finalist)</span>
-      <span style="white-space: nowrap;">03/2026</span>
-    </div>
-  </li>
+##### **Contact Information**
 
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Peebles Award for Graduate Student Research in Adhesion Science</span>
-      <span style="white-space: nowrap;">02/2026</span>
-    </div>
-  </li>
+Email: liujiab1@msu.edu
 
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Rising Stars in Soft and Biological Matter</span>
-      <span style="white-space: nowrap;">12/2025</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Rising Stars in Mechanical Engineering</span>
-      <span style="white-space: nowrap;">10/2025</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Society of Engineering Science, Student Travel Award</span>
-      <span style="white-space: nowrap;">10/2025</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Society of Engineering Science, Second Future Faculty Symposium Travel Award</span>
-      <span style="white-space: nowrap;">10/2025</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Best Poster Award, 2025 MSU Engineering Graduate Research Symposium</span>
-      <span style="white-space: nowrap;">05/2025</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Outstanding Graduate Student in Mechanical Engineering, Michigan State University</span>
-      <span style="white-space: nowrap;">04/2025</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Inspiration Level Award, 2024 MTRAC AgBio Innovation Challenge</span>
-      <span style="white-space: nowrap;">06/2024</span>
-    </div>
-  </li>
-
-  <li style="margin-bottom: 0.7rem;">
-    <div style="display: flex; justify-content: space-between; gap: 1rem;">
-      <span>Haythornthwaite Foundation Student Travel Award, IMECE 2023</span>
-      <span style="white-space: nowrap;">11/2023</span>
-    </div>
-  </li>
-
-</ul>
+---
