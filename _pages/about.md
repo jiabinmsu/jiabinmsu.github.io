@@ -76,8 +76,3 @@ I am always happy to discuss research ideas and explore potential collaborations
 
 Email: liujiab1@msu.edu
 
----
-
-<body>
-<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=a&t=tt&d=fta4eaaqWv5tLnRCixi7uyU7grUxAwY-rYFu0u-9J3M'></script>
-<body>
