@@ -50,7 +50,7 @@ I am always happy to discuss research ideas and explore potential collaborations
 
 ##### **Recent Work**
 
-- **J. Liu**, S. Lin, and J. Huang. A Discrete HRR-Like Theory for Fracture in Nonlinear Lattice Networks. Submitted, 2026. 
+- **J. Liu**, S. Lin, and J. Huang. [A discrete crack-tip theory for nonlinear lattice networks](https://arxiv.org/abs/2609.04568), ***arXiv:2609.04568***, 2026.
 - J. Huang<sup>†</sup>, **J. Liu<sup>†</sup>**, and S. Lin. [Topological Mechanics of Entangled Networks](https://arxiv.org/abs/2509.17813), ***arXiv:2509.17813***, 2025.
 - **J. Liu**, W. Li, Y. She, S. Blanchard and S. Lin. [Fatigue‐Resistant Mechanoresponsive Color‐Changing Hydrogels for Vision‐Based Tactile Robots](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adma.202407925), *Advanced Materials*, 37(49), 2407925.
 - **J. Liu** and S. Lin. [Strain-engineered particle diffusion in uniaxially deformed polymer networks](https://www.sciencedirect.com/science/article/abs/pii/S0022509624001984), *Journal of the Mechanics and Physics of Solids*, 191, 105732.
